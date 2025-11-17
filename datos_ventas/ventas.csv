@@ -1,6 +1,6 @@
-Producto	Cantidad Vendida	Precio Unitario	 Ingresos Totales
-Laptop	  12	                $550	         $6,600
-Teclado 	35	                $15	           $525
-Mouse	    40	                $10	           $400
-Monitor  	8	                  $120	         $960
-Audífonos	25	                $18	           $450
+Producto,Cantidad Vendida,Precio Unitario,Ingresos Totales
+Laptop,12,550,6600
+Teclado,35,15,525
+Mouse,40,10,400
+Monitor,8,120,960
+Audífonos,25,18,450
